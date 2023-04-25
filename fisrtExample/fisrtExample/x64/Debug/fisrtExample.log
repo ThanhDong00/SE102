@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\studyUIT\2022-2023 Year2\term2\SE102.N22.PMCL\project\fisrtExample\fisrtExample\main.cpp(370,12): error C2440: 'type cast': cannot convert from 'float' to 'wchar_t *'
+D:\studyUIT\2022-2023 Year2\term2\SE102.N22.PMCL\project\fisrtExample\fisrtExample\main.cpp(370,31): error C2440: 'type cast': cannot convert from 'float' to 'wchar_t *'
